@@ -25,6 +25,7 @@ Infrastructure tooling built for our own production systems, released under open
 |-----------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | **[k10s](https://github.com/p10node/k10s)**               | live        | Kubernetes terminal UI you can click. Mouse, one search box for the whole cluster, opens instantly, single self-updating binary. Go    |
 | **[p10logs](https://github.com/p10node/p10logs)**         | live        | Persistent, multi-cluster Kubernetes pod logs. One DaemonSet, one hub with a PVC, built-in UI. No Elasticsearch, no Grafana. Go · Helm |
+| **[office-engine](https://github.com/p10node/office-engine)**      | live    | View & edit DOCX, XLSX, PPTX in the browser. Progressive loading, formulas, real-time collab, saves to original format.  |
 | **[docflare-ai](https://github.com/p10node/docflare-ai)** | live        | AI chatbot and site search for your docs in one `<script>` tag. 100% Cloudflare-native, runs on the free tier. TypeScript              |
 | **[aot-llm](https://github.com/p10node/aot-llm)**         | new         | Compiles a quantized GGUF model into one native binary. No runtime, ~0.2 ms startup, llama.cpp-identical output. Rust                  |
 | **[listmngr](https://github.com/p10node/listmngr)**       | alpha       | Mailing-list manager that replaces GNU Mailman 3 in one static binary. SQLite or PostgreSQL, web UI, archive, REST API. Rust           |
