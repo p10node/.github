@@ -1,13 +1,5 @@
-<div align="center">
-  <h3>Where Tomorrow Takes Root</h3>
-
-  <p>p10node OSS is an open-source non-profit organization.<br>
-  Everything here is released under open licences and maintained in public.</p>
-
-  <a href="https://p10node.org">p10node.org</a> ·
-  <a href="https://github.com/orgs/p10node/repositories">Repositories</a> ·
-  <a href="mailto:team@p10node.org">team@p10node.org</a>
-</div>
+<p>p10node OSS is an open-source non-profit organization.<br>
+Everything here is released under open licences and maintained in public.</p>
 
 ## Governance
 
