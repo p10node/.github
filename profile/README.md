@@ -2,7 +2,6 @@
   <h3>Where Tomorrow Takes Root</h3>
 
   <p>p10node OSS is an open-source non-profit organization.<br>
-  It was started by the founder of p10node LLC, but it is not affiliated with the company and operates entirely independently of it.<br>
   Everything here is released under open licences and maintained in public.</p>
 
   <a href="https://p10node.org">p10node.org</a> ·
